@@ -11,7 +11,7 @@ SRC		= $(wildcard src/*.c)
 
 OBJ 	= $(SRC:.c=.o)
 
-BIN		= firtree
+BIN		= tree
 
 all: $(BIN)
 
