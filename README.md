@@ -33,4 +33,4 @@ Run the executable file you just compiled to print out your fir tree:
 
 ## Author
 
-* **Paul COMTE** ([GitHub](https://github.com/rqndomhax-e) / [Linkedin](https://www.linkedin.com/in/paul-comte-4999661ba/))
+* **Paul COMTE** ([GitHub](https://github.com/rqndomhax) / [Linkedin](https://www.linkedin.com/in/paul-comte-4999661ba/))
